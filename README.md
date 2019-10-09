@@ -1,4 +1,4 @@
 # CSS-JS-clock
 
-[<img src='https://i.vimeocdn.com/video/820895552.jpg' width='50%' align='center' />](https://player.vimeo.com/video/365230039)
+[<img src='https://j.gifs.com/1W34wP.gif' width='300px'/>](https://player.vimeo.com/video/365230039)
 #### Simple HTML CSS JS clock
